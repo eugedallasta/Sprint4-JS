@@ -1,6 +1,6 @@
 // Exercise 1: Get the array of all directors.
 
-}
+
 
 // Exercise 2: Get the films of a certain director
 
