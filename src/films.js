@@ -1,3 +1,4 @@
+//Sprint -4
 // Exercise 1: Get the array of all directors.
 function getAllDirectors(array) {
   const result = array.map((movie) => movie.director);
